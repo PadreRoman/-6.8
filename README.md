@@ -16,4 +16,4 @@
 
 ## Посмотреть: 
 
-https://iribronskaya.github.io/TASK_6.8/
+https://padreroman.github.io/Task-6.8/
